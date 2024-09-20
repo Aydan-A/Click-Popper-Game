@@ -1,0 +1,58 @@
+.page {
+    display: none;
+}
+
+.visible {
+    display: block;
+}
+
+.btn {
+    background-color: #3498db;
+    border: none;
+    color: white;
+    padding: 12px 24px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 10px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+.btn:hover {
+    background-color: #2980b9;
+    transform: translateY(-5px);
+}
+
+.pop {
+    border: 1px solid rgb(227, 232, 232);
+    ;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    color: rgb(234, 218, 219);
+    font-size: 2em;
+    font-family: fantasy;
+}
+
+.row {
+    display: block;
+    text-align: center;
+    padding-top: 10px;
+}
+
+
+.active {
+    border: 1px outset rgb(247, 6, 6);
+    background-color: rgb(122, 46, 64);
+}
+
+.label {
+    background-color: rgb(122, 46, 64);
+    color: white;
+    text-align: center;
+}
