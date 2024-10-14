@@ -1,8 +1,8 @@
-Pop Game  
+## Pop Game  
 Pop Game is a fun and interactive browser-based game where players need to click on randomly appearing "pop" elements. Each pop displays a unique icon and value, and the player's goal is to accumulate points and avoid running out of lives. The game is built using vanilla JavaScript, HTML, and CSS.
 
 
-How to Play  
+## How to Play  
 Start the Game: Click the buttons to reveal the icons and values of the grid elements. You begin with 3 lives.  
 Gain or Lose Points: The score will change based on the value of the clicked elements.  
 If the element has a positive value, your score increases.  
